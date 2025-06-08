@@ -3264,7 +3264,7 @@ function displayPKSServices(dayType, tbodyEl) {
       let newCell5 = tempNewRow.insertCell(-1);
       let newCell6 = tempNewRow.insertCell(-1);
       newCell1.innerHTML =
-        "<a href='brygdetPKS.php?id=" + e.id + "&ttidPKS=" + ttidPKS + "'>" + e.code + "</a>";
+        "<a href='brygdetPKS.html?id=" + e.id + "&ttidPKS=" + ttidPKS + "'>" + e.code + "</a>";
       if (e.serviceType == "1ZM") {
         newCell1.classList.add("brig1zm");
       } else if (e.serviceType == "BIS") {
@@ -3683,7 +3683,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
         let newCell7 = tempNewRow.insertCell(-1);
         newCell4.style.setProperty("font-weight", "bold");
         newCell1.innerHTML =
-          "<a href='tripdetPKS.php?id=" +
+          "<a href='tripDetPKS.html?id=" +
           arrayOfServicesPKS[i].id +
           "&id2=" +
           arrayOfServicesPKS[i].trips[j].ID +
@@ -3783,7 +3783,7 @@ function displayTripDetailsPKS(sId, tId, tbodyEl) {
       servBaseInfoEl.textContent = arrayOfServicesPKS[i].code + " - ";
       brygTtBtn.setAttribute(
         "href",
-        "brygdetPKS.php?id=" + arrayOfServicesPKS[i].id + "&ttidPKS=" + ttidPKS
+        "brygdetPKS.html?id=" + arrayOfServicesPKS[i].id + "&ttidPKS=" + ttidPKS
       );
       servBaseInfoEl.textContent += arrayOfServicesPKS[i].dayType;
       for (let j = 0; j < arrayOfServicesPKS[i].trips.length; j++) {
@@ -3796,7 +3796,7 @@ function displayTripDetailsPKS(sId, tId, tbodyEl) {
           if (j != 0) {
             prevBtn.setAttribute(
               "href",
-              "tripdetPKS.php?id=" +
+              "tripDetPKS.html?id=" +
               arrayOfServicesPKS[i].id +
               "&id2=" +
               arrayOfServicesPKS[i].trips[j - 1].ID + "&ttidPKS=" + ttidPKS
@@ -3810,7 +3810,7 @@ function displayTripDetailsPKS(sId, tId, tbodyEl) {
           if (j < arrayOfServicesPKS[i].trips.length - 1) {
             nextBtn.setAttribute(
               "href",
-              "tripdetPKS.php?id=" +
+              "tripDetPKS.html?id=" +
               arrayOfServicesPKS[i].id +
               "&id2=" +
               arrayOfServicesPKS[i].trips[j + 1].ID + "&ttidPKS=" + ttidPKS
