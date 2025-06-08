@@ -1,0 +1,860 @@
+[
+    {
+        "ID": "1",
+        "DayType": "PS",
+        "DisplayName": "100S",
+        "AcceptedValues": ["100S"]
+    },
+    {
+        "ID": "2",
+        "DayType": "PS",
+        "DisplayName": "108/4",
+        "AcceptedValues": ["108/4"]
+    },
+    {
+        "ID": "3",
+        "DayType": "PS",
+        "DisplayName": "108/5",
+        "AcceptedValues": ["108/5"]
+    },
+    {
+        "ID": "4",
+        "DayType": "PS",
+        "DisplayName": "108/1",
+        "AcceptedValues": ["108A1", "108B1"]
+    },
+    {
+        "ID": "5",
+        "DayType": "PS",
+        "DisplayName": "108/2",
+        "AcceptedValues": ["108A2", "108B2"]
+    },
+    {
+        "ID": "6",
+        "DayType": "PS",
+        "DisplayName": "108/3",
+        "AcceptedValues": ["108A3", "108B3"]
+    },
+    {
+        "ID": "7",
+        "DayType": "PS",
+        "DisplayName": "200/1",
+        "AcceptedValues": ["200/1"]
+    },
+    {
+        "ID": "8",
+        "DayType": "PS",
+        "DisplayName": "200/2",
+        "AcceptedValues": ["200/2"]
+    },
+    {
+        "ID": "9",
+        "DayType": "PS",
+        "DisplayName": "201/2",
+        "AcceptedValues": ["201/2"]
+    },
+    {
+        "ID": "10",
+        "DayType": "PS",
+        "DisplayName": "201/1",
+        "AcceptedValues": ["201A1", "201B1"]
+    },
+    {
+        "ID": "11",
+        "DayType": "PS",
+        "DisplayName": "202/1",
+        "AcceptedValues": ["202/1"]
+    },
+    {
+        "ID": "12",
+        "DayType": "PS",
+        "DisplayName": "202/4",
+        "AcceptedValues": ["202/4"]
+    },
+    {
+        "ID": "13",
+        "DayType": "PS",
+        "DisplayName": "202/5",
+        "AcceptedValues": ["202/5"]
+    },
+    {
+        "ID": "14",
+        "DayType": "PS",
+        "DisplayName": "202/2",
+        "AcceptedValues": ["202A2", "202B2"]
+    },
+    {
+        "ID": "15",
+        "DayType": "PS",
+        "DisplayName": "202/3",
+        "AcceptedValues": ["202A3", "202B3"]
+    },
+    {
+        "ID": "16",
+        "DayType": "PS",
+        "DisplayName": "203/2",
+        "AcceptedValues": ["203/2"]
+    },
+    {
+        "ID": "17",
+        "DayType": "PS",
+        "DisplayName": "205/1",
+        "AcceptedValues": ["205/1"]
+    },
+    {
+        "ID": "18",
+        "DayType": "PS",
+        "DisplayName": "206/2",
+        "AcceptedValues": ["206/2"]
+    },
+    {
+        "ID": "19",
+        "DayType": "PS",
+        "DisplayName": "206/1",
+        "AcceptedValues": ["206A1", "206B1"]
+    },
+    {
+        "ID": "20",
+        "DayType": "PS",
+        "DisplayName": "207/1",
+        "AcceptedValues": ["207/1"]
+    },
+    {
+        "ID": "21",
+        "DayType": "PS",
+        "DisplayName": "207/2",
+        "AcceptedValues": ["207A2", "207B2"]
+    },
+    {
+        "ID": "22",
+        "DayType": "PS",
+        "DisplayName": "208/1",
+        "AcceptedValues": ["208/1"]
+    },
+    {
+        "ID": "23",
+        "DayType": "PS",
+        "DisplayName": "208/2",
+        "AcceptedValues": ["208/2"]
+    },
+    {
+        "ID": "24",
+        "DayType": "PS",
+        "DisplayName": "208/3",
+        "AcceptedValues": ["208A3", "208B3"]
+    },
+    {
+        "ID": "25",
+        "DayType": "PS",
+        "DisplayName": "210/2",
+        "AcceptedValues": ["210/2"]
+    },
+    {
+        "ID": "26",
+        "DayType": "PS",
+        "DisplayName": "210/1",
+        "AcceptedValues": ["210A1", "210B1"]
+    },
+    {
+        "ID": "27",
+        "DayType": "PS",
+        "DisplayName": "212/1",
+        "AcceptedValues": ["212A1", "212B1"]
+    },
+    {
+        "ID": "28",
+        "DayType": "PS",
+        "DisplayName": "214/1",
+        "AcceptedValues": ["214/1"]
+    },
+    {
+        "ID": "29",
+        "DayType": "PS",
+        "DisplayName": "214/2",
+        "AcceptedValues": ["214A2", "214B2"]
+    },
+    {
+        "ID": "30",
+        "DayType": "PS",
+        "DisplayName": "214/3",
+        "AcceptedValues": ["214A3", "214B3"]
+    },
+    {
+        "ID": "31",
+        "DayType": "PS",
+        "DisplayName": "215/3",
+        "AcceptedValues": ["215/3"]
+    },
+    {
+        "ID": "32",
+        "DayType": "PS",
+        "DisplayName": "215/4",
+        "AcceptedValues": ["215/4"]
+    },
+    {
+        "ID": "33",
+        "DayType": "PS",
+        "DisplayName": "215/1",
+        "AcceptedValues": ["215A1", "215B1"]
+    },
+    {
+        "ID": "34",
+        "DayType": "PS",
+        "DisplayName": "215/2",
+        "AcceptedValues": ["215A2", "215B2"]
+    },
+    {
+        "ID": "35",
+        "DayType": "PS",
+        "DisplayName": "216/1",
+        "AcceptedValues": ["216/1"]
+    },
+    {
+        "ID": "36",
+        "DayType": "PS",
+        "DisplayName": "216/2",
+        "AcceptedValues": ["216/2"]
+    },
+    {
+        "ID": "37",
+        "DayType": "PS",
+        "DisplayName": "216/4",
+        "AcceptedValues": ["216/4"]
+    },
+    {
+        "ID": "38",
+        "DayType": "PS",
+        "DisplayName": "217/1",
+        "AcceptedValues": ["217A1", "217B1"]
+    },
+    {
+        "ID": "39",
+        "DayType": "PS",
+        "DisplayName": "218/1",
+        "AcceptedValues": ["218A1", "218B1"]
+    },
+    {
+        "ID": "40",
+        "DayType": "PS",
+        "DisplayName": "219/1",
+        "AcceptedValues": ["219/1"]
+    },
+    {
+        "ID": "41",
+        "DayType": "PS",
+        "DisplayName": "221/1",
+        "AcceptedValues": ["221/1"]
+    },
+    {
+        "ID": "42",
+        "DayType": "PS",
+        "DisplayName": "221/4",
+        "AcceptedValues": ["221/4"]
+    },
+    {
+        "ID": "43",
+        "DayType": "PS",
+        "DisplayName": "221/2",
+        "AcceptedValues": ["221A2", "221B2"]
+    },
+    {
+        "ID": "44",
+        "DayType": "PS",
+        "DisplayName": "221/3",
+        "AcceptedValues": ["221A3", "221B3"]
+    },
+    {
+        "ID": "45",
+        "DayType": "PS",
+        "DisplayName": "223/2",
+        "AcceptedValues": ["223A2", "223B2"]
+    },
+    {
+        "ID": "46",
+        "DayType": "PS",
+        "DisplayName": "223/4",
+        "AcceptedValues": ["223A4", "223B4"]
+    },
+    {
+        "ID": "47",
+        "DayType": "PS",
+        "DisplayName": "224/1",
+        "AcceptedValues": ["224/1"]
+    },
+    {
+        "ID": "48",
+        "DayType": "PS",
+        "DisplayName": "224/2",
+        "AcceptedValues": ["224/2"]
+    },
+    {
+        "ID": "49",
+        "DayType": "PS",
+        "DisplayName": "228/1",
+        "AcceptedValues": ["228/1"]
+    },
+    {
+        "ID": "50",
+        "DayType": "PS",
+        "DisplayName": "230/1",
+        "AcceptedValues": ["230A1", "230B1"]
+    },
+    {
+        "ID": "51",
+        "DayType": "PS",
+        "DisplayName": "237/1",
+        "AcceptedValues": ["237A1", "237B1"]
+    },
+    {
+        "ID": "52",
+        "DayType": "PS",
+        "DisplayName": "238/3",
+        "AcceptedValues": ["238/3"]
+    },
+    {
+        "ID": "53",
+        "DayType": "PS",
+        "DisplayName": "238/4",
+        "AcceptedValues": ["238/4"]
+    },
+    {
+        "ID": "54",
+        "DayType": "PS",
+        "DisplayName": "238/1",
+        "AcceptedValues": ["238A1", "238B1"]
+    },
+    {
+        "ID": "55",
+        "DayType": "PS",
+        "DisplayName": "239/1",
+        "AcceptedValues": ["239/1"]
+    },
+    {
+        "ID": "56",
+        "DayType": "PS",
+        "DisplayName": "240/2",
+        "AcceptedValues": ["240/2"]
+    },
+    {
+        "ID": "57",
+        "DayType": "PS",
+        "DisplayName": "240/1",
+        "AcceptedValues": ["240A1", "240B1"]
+    },
+    {
+        "ID": "58",
+        "DayType": "PS",
+        "DisplayName": "241/2",
+        "AcceptedValues": ["241/2"]
+    },
+    {
+        "ID": "59",
+        "DayType": "PS",
+        "DisplayName": "241/1",
+        "AcceptedValues": ["241A1", "241B1"]
+    },
+    {
+        "ID": "60",
+        "DayType": "PS",
+        "DisplayName": "246/1",
+        "AcceptedValues": ["246/1"]
+    },
+    {
+        "ID": "61",
+        "DayType": "PS",
+        "DisplayName": "250/4",
+        "AcceptedValues": ["250/4"]
+    },
+    {
+        "ID": "62",
+        "DayType": "PS",
+        "DisplayName": "250/1",
+        "AcceptedValues": ["250A1", "250B1"]
+    },
+    {
+        "ID": "63",
+        "DayType": "PS",
+        "DisplayName": "250/2",
+        "AcceptedValues": ["250A2", "250B2"]
+    },
+    {
+        "ID": "64",
+        "DayType": "PS",
+        "DisplayName": "253/1",
+        "AcceptedValues": ["253/1"]
+    },
+    {
+        "ID": "65",
+        "DayType": "PS",
+        "DisplayName": "260/2",
+        "AcceptedValues": ["260/2"]
+    },
+    {
+        "ID": "66",
+        "DayType": "PS",
+        "DisplayName": "260/1",
+        "AcceptedValues": ["260A1", "260B1"]
+    },
+    {
+        "ID": "67",
+        "DayType": "PS",
+        "DisplayName": "261/2",
+        "AcceptedValues": ["261/2"]
+    },
+    {
+        "ID": "68",
+        "DayType": "PS",
+        "DisplayName": "261/3",
+        "AcceptedValues": ["261/3"]
+    },
+    {
+        "ID": "69",
+        "DayType": "PS",
+        "DisplayName": "261/1",
+        "AcceptedValues": ["261A1", "261B1"]
+    },
+    {
+        "ID": "70",
+        "DayType": "PS",
+        "DisplayName": "262/1",
+        "AcceptedValues": ["262A1", "262B1"]
+    },
+    {
+        "ID": "71",
+        "DayType": "PS",
+        "DisplayName": "301/1",
+        "AcceptedValues": ["301/1"]
+    },
+    {
+        "ID": "72",
+        "DayType": "PS",
+        "DisplayName": "301/2",
+        "AcceptedValues": ["301/2"]
+    },
+    {
+        "ID": "73",
+        "DayType": "PS",
+        "DisplayName": "301/3",
+        "AcceptedValues": ["301/3"]
+    },
+    {
+        "ID": "74",
+        "DayType": "PS",
+        "DisplayName": "301/1",
+        "AcceptedValues": ["301A1", "301B1"]
+    },
+    {
+        "ID": "75",
+        "DayType": "PS",
+        "DisplayName": "301/2",
+        "AcceptedValues": ["301A2", "301B2"]
+    },
+    {
+        "ID": "76",
+        "DayType": "PS",
+        "DisplayName": "301/3",
+        "AcceptedValues": ["301A3", "301B3"]
+    },
+    {
+        "ID": "77",
+        "DayType": "PS",
+        "DisplayName": "302/1",
+        "AcceptedValues": ["302/1"]
+    },
+    {
+        "ID": "78",
+        "DayType": "PS",
+        "DisplayName": "303/1",
+        "AcceptedValues": ["303A1", "303B1"]
+    },
+    {
+        "ID": "79",
+        "DayType": "PS",
+        "DisplayName": "303S",
+        "AcceptedValues": ["303S"]
+    },
+    {
+        "ID": "80",
+        "DayType": "PS",
+        "DisplayName": "304S",
+        "AcceptedValues": ["304S"]
+    },
+    {
+        "ID": "81",
+        "DayType": "PS",
+        "DisplayName": "306/1",
+        "AcceptedValues": ["306/1"]
+    },
+    {
+        "ID": "82",
+        "DayType": "PS",
+        "DisplayName": "306S",
+        "AcceptedValues": ["306S"]
+    },
+    {
+        "ID": "83",
+        "DayType": "PS",
+        "DisplayName": "307/2",
+        "AcceptedValues": ["307/2"]
+    },
+    {
+        "ID": "84",
+        "DayType": "PS",
+        "DisplayName": "307/1",
+        "AcceptedValues": ["307A1", "307B1"]
+    },
+    {
+        "ID": "85",
+        "DayType": "PS",
+        "DisplayName": "310/1",
+        "AcceptedValues": ["310/1"]
+    },
+    {
+        "ID": "86",
+        "DayType": "PS",
+        "DisplayName": "314/1",
+        "AcceptedValues": ["314/1"]
+    },
+    {
+        "ID": "87",
+        "DayType": "PS",
+        "DisplayName": "400/2",
+        "AcceptedValues": ["400A2", "400B2"]
+    },
+    {
+        "ID": "88",
+        "DayType": "PS",
+        "DisplayName": "400/3",
+        "AcceptedValues": ["400A3", "400B3"]
+    },
+    {
+        "ID": "89",
+        "DayType": "PS",
+        "DisplayName": "401/1",
+        "AcceptedValues": ["401A1", "401B1"]
+    },
+    {
+        "ID": "90",
+        "DayType": "PS",
+        "DisplayName": "402/1",
+        "AcceptedValues": ["402A1", "402B1"]
+    },
+    {
+        "ID": "91",
+        "DayType": "PS",
+        "DisplayName": "403/1",
+        "AcceptedValues": ["403/1"]
+    },
+    {
+        "ID": "92",
+        "DayType": "SS",
+        "DisplayName": "108/6",
+        "AcceptedValues": ["108A6", "108B6"]
+    },
+    {
+        "ID": "93",
+        "DayType": "SS",
+        "DisplayName": "201/6",
+        "AcceptedValues": ["201A6", "201B6"]
+    },
+    {
+        "ID": "94",
+        "DayType": "SS",
+        "DisplayName": "202AB6",
+        "AcceptedValues": ["202A6", "202B6"]
+    },
+    {
+        "ID": "95",
+        "DayType": "SS",
+        "DisplayName": "202C6",
+        "AcceptedValues": ["202C6"]
+    },
+    {
+        "ID": "96",
+        "DayType": "SS",
+        "DisplayName": "203/6",
+        "AcceptedValues": ["203A6", "203B6"]
+    },
+    {
+        "ID": "97",
+        "DayType": "SS",
+        "DisplayName": "206/6",
+        "AcceptedValues": ["206A6", "206B6"]
+    },
+    {
+        "ID": "98",
+        "DayType": "SS",
+        "DisplayName": "215AB6",
+        "AcceptedValues": ["215A6", "215B6"]
+    },
+    {
+        "ID": "99",
+        "DayType": "SS",
+        "DisplayName": "215CD6",
+        "AcceptedValues": ["215C6", "215D6"]
+    },
+    {
+        "ID": "100",
+        "DayType": "SS",
+        "DisplayName": "218/6",
+        "AcceptedValues": ["218A6", "218B6"]
+    },
+    {
+        "ID": "101",
+        "DayType": "SS",
+        "DisplayName": "222/6",
+        "AcceptedValues": ["222A6", "222B6"]
+    },
+    {
+        "ID": "102",
+        "DayType": "SS",
+        "DisplayName": "223/6",
+        "AcceptedValues": ["223A6", "223B6"]
+    },
+    {
+        "ID": "103",
+        "DayType": "SS",
+        "DisplayName": "228/6",
+        "AcceptedValues": ["228/6"]
+    },
+    {
+        "ID": "104",
+        "DayType": "SS",
+        "DisplayName": "233/6",
+        "AcceptedValues": ["233A6", "233B6"]
+    },
+    {
+        "ID": "105",
+        "DayType": "SS",
+        "DisplayName": "237/6",
+        "AcceptedValues": ["237A6", "237B6"]
+    },
+    {
+        "ID": "106",
+        "DayType": "SS",
+        "DisplayName": "241/6",
+        "AcceptedValues": ["241/6"]
+    },
+    {
+        "ID": "107",
+        "DayType": "SS",
+        "DisplayName": "250/6",
+        "AcceptedValues": ["250A6", "250B6"]
+    },
+    {
+        "ID": "108",
+        "DayType": "SS",
+        "DisplayName": "260/6",
+        "AcceptedValues": ["260A6", "260B6"]
+    },
+    {
+        "ID": "109",
+        "DayType": "SS",
+        "DisplayName": "261/6",
+        "AcceptedValues": ["261A6", "261B6"]
+    },
+    {
+        "ID": "110",
+        "DayType": "SS",
+        "DisplayName": "262/6",
+        "AcceptedValues": ["262/6"]
+    },
+    {
+        "ID": "111",
+        "DayType": "SS",
+        "DisplayName": "288/6",
+        "AcceptedValues": ["288A6", "288B6"]
+    },
+    {
+        "ID": "112",
+        "DayType": "SS",
+        "DisplayName": "304/6",
+        "AcceptedValues": ["304/6"]
+    },
+    {
+        "ID": "113",
+        "DayType": "SS",
+        "DisplayName": "311/6",
+        "AcceptedValues": ["311A6", "311B6"]
+    },
+    {
+        "ID": "114",
+        "DayType": "SS",
+        "DisplayName": "312AB6",
+        "AcceptedValues": ["312A6", "312B6"]
+    },
+    {
+        "ID": "115",
+        "DayType": "SS",
+        "DisplayName": "312CD6",
+        "AcceptedValues": ["312C6", "312D6"]
+    },
+    {
+        "ID": "116",
+        "DayType": "SS",
+        "DisplayName": "317AB6",
+        "AcceptedValues": ["317A6", "317B6"]
+    },
+    {
+        "ID": "117",
+        "DayType": "SS",
+        "DisplayName": "317C6",
+        "AcceptedValues": ["317C6"]
+    },
+    {
+        "ID": "118",
+        "DayType": "SS",
+        "DisplayName": "402/6",
+        "AcceptedValues": ["402/6"]
+    },
+    {
+        "ID": "119",
+        "DayType": "SS",
+        "DisplayName": "403/6",
+        "AcceptedValues": ["403A6", "403B6"]
+    },
+    {
+        "ID": "120",
+        "DayType": "NS",
+        "DisplayName": "108+",
+        "AcceptedValues": ["108+A", "108+B"]
+    },
+    {
+        "ID": "121",
+        "DayType": "NS",
+        "DisplayName": "201+",
+        "AcceptedValues": ["201+A", "201+B"]
+    },
+    {
+        "ID": "122",
+        "DayType": "NS",
+        "DisplayName": "202+",
+        "AcceptedValues": ["202+A", "202+B"]
+    },
+    {
+        "ID": "123",
+        "DayType": "NS",
+        "DisplayName": "203+",
+        "AcceptedValues": ["203+A", "203+B"]
+    },
+    {
+        "ID": "124",
+        "DayType": "NS",
+        "DisplayName": "206+",
+        "AcceptedValues": ["206+A", "206+B"]
+    },
+    {
+        "ID": "125",
+        "DayType": "NS",
+        "DisplayName": "215+AB",
+        "AcceptedValues": ["215+A", "215+B"]
+    },
+    {
+        "ID": "126",
+        "DayType": "NS",
+        "DisplayName": "215+C",
+        "AcceptedValues": ["215+C"]
+    },
+    {
+        "ID": "127",
+        "DayType": "NS",
+        "DisplayName": "218+",
+        "AcceptedValues": ["218+A", "218+B"]
+    },
+    {
+        "ID": "128",
+        "DayType": "NS",
+        "DisplayName": "222+",
+        "AcceptedValues": ["222+A", "222+B"]
+    },
+    {
+        "ID": "129",
+        "DayType": "NS",
+        "DisplayName": "223+AB",
+        "AcceptedValues": ["223+A", "223+B"]
+    },
+    {
+        "ID": "130",
+        "DayType": "NS",
+        "DisplayName": "223+C",
+        "AcceptedValues": ["223+C"]
+    },
+    {
+        "ID": "131",
+        "DayType": "NS",
+        "DisplayName": "233+",
+        "AcceptedValues": ["233+A", "233+B"]
+    },
+    {
+        "ID": "132",
+        "DayType": "NS",
+        "DisplayName": "237+",
+        "AcceptedValues": ["237+A", "237+B"]
+    },
+    {
+        "ID": "133",
+        "DayType": "NS",
+        "DisplayName": "241+",
+        "AcceptedValues": ["241+"]
+    },
+    {
+        "ID": "134",
+        "DayType": "NS",
+        "DisplayName": "250+",
+        "AcceptedValues": ["250+"]
+    },
+    {
+        "ID": "135",
+        "DayType": "NS",
+        "DisplayName": "260+",
+        "AcceptedValues": ["260+"]
+    },
+    {
+        "ID": "136",
+        "DayType": "NS",
+        "DisplayName": "262+",
+        "AcceptedValues": ["262+A", "262+B"]
+    },
+    {
+        "ID": "137",
+        "DayType": "NS",
+        "DisplayName": "288+",
+        "AcceptedValues": ["288+A", "288+B"]
+    },
+    {
+        "ID": "138",
+        "DayType": "NS",
+        "DisplayName": "304+",
+        "AcceptedValues": ["304+"]
+    },
+    {
+        "ID": "139",
+        "DayType": "NS",
+        "DisplayName": "311+",
+        "AcceptedValues": ["311+"]
+    },
+    {
+        "ID": "140",
+        "DayType": "NS",
+        "DisplayName": "312+",
+        "AcceptedValues": ["312+A", "312+B"]
+    },
+    {
+        "ID": "141",
+        "DayType": "NS",
+        "DisplayName": "317+",
+        "AcceptedValues": ["317+A", "317+B"]
+    },
+    {
+        "ID": "142",
+        "DayType": "NS",
+        "DisplayName": "403+A",
+        "AcceptedValues": ["403+A"]
+    },
+    {
+        "ID": "143",
+        "DayType": "NS",
+        "DisplayName": "403+B",
+        "AcceptedValues": ["403+B"]
+    }
+]

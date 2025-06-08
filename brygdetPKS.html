@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&display=swap"
+        rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=”robots” content=”noindex,nofollow”>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="menu-opt">
+            <span><a href="..">Lista brygad</a></span>
+        </div>
+    </header>
+    <main class="main-bryg">
+        <h2>Rozkład brygady: <span id="ser-code-hd"></span></h2>
+        <h5></h5>
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="5" class="bryg-type"></th>
+                </tr>
+                <tr>
+                    <th>Zmiana</th>
+                    <th>Od</th>
+                    <th>Do</th>
+                    <th>Czas</th>
+                    <th>km</th>
+                </tr>
+            </thead>
+            <tbody class="bryg-stats">
+
+            </tbody>
+        </table>
+        <table class="tbl-bryg">
+            <thead>
+                <tr>
+                    <th>Lp.</th>
+                    <th>Linia</th>
+                    <th>Przystanek początkowy</th>
+                    <th>Przystanek końcowy</th>
+                    <th>Od</th>
+                    <th>Do</th>
+                    <th>km</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </main>
+    <script src="script/main.js?v=25-03-23v1"></script>
+    <script>
+        const queryStr = window.location.search;
+        const urlParams = new URLSearchParams(queryStr);
+        const currSerId = urlParams.get('id');
+        const detTblBody = document.querySelector(".tbl-bryg tbody");
+        const brygCodeEl = document.querySelector("#ser-code-hd");
+        const dayTypeDet = document.querySelector(".main-bryg h5");
+        const brygTypeEl = document.querySelector(".bryg-type");
+        const brygStatsEl = document.querySelector(".bryg-stats");
+        const histTblEl = document.querySelector(".tbl-bryg-hist");
+        window.addEventListener("load", getPKSServices);
+    </script>
+</body>
+
+</html>

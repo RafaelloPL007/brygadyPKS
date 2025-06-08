@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=”robots” content=”noindex,nofollow”>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Brygady PKS Rzeszów</title>
+</head>
+<style>
+    .search-flex {
+        display: flex;
+        justify-content: space-between;
+        width: 24rem;
+        margin: auto;
+    }
+
+    .search-div {
+        margin-top: 20px;
+        width: 14rem;
+    }
+
+    .line-search {
+        width: 5rem;
+    }
+
+    #service-code-itp:focus~.stop-label,
+    #service-code-itp:not(:placeholder-shown)#service-code-itp:not(:focus)~.stop-label,
+    #service-line-itp:focus~.stop-label,
+    #service-line-itp:not(:placeholder-shown)#service-line-itp:not(:focus)~.stop-label {
+        top: -0.5rem;
+        font-size: 0.8rem;
+        left: 0.8rem;
+    }
+
+    @media(max-width: 400px) {
+        .search-flex {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 14rem;
+            margin: auto;
+        }
+    }
+</style>
+
+<body>
+    <header>
+        <div class="menu-opt">
+            <span><a href="..">Lista brygad</a></span>
+        </div>
+    </header>
+    <main class="main-bryg">
+        <div class="day-type">
+            <input type="radio" name="d-type" id="dtPS"><label for="dtPS">Roboczy szkolny</label>
+            <input type="radio" name="d-type" id="dtPW"><label for="dtPW">Roboczy wakacyjny</label>
+            <input type="radio" name="d-type" id="dtSS"><label for="dtSS">Sobotni</label>
+            <input type="radio" name="d-type" id="dtNS"><label for="dtNS">Niedzielny</label>
+        </div>
+        <div class="search-flex">
+            <div class="search-div">
+                <input type="text" name="service-code-itp" id="service-code-itp" placeholder=" ">
+                <label for="service-code-itp" class="stop-label">Szukaj brygady (LLL/BB): </label>
+            </div>
+            <div class="search-div line-search">
+                <input type="text" name="service-line-itp" id="service-line-itp" placeholder=" ">
+                <label for="service-line-itp" class="stop-label">Linia: </label>
+            </div>
+        </div>
+        <table class="tbl-bryg">
+            <thead>
+                <tr>
+                    <th>Brygada</th>
+                    <th>Linie</th>
+                    <th>Pojazd</th>
+                    <th>Od</th>
+                    <th>Do</th>
+                    <th>km</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </main>
+    <script src="script/main.js?v=25-03-23v1"></script>
+    <script>
+        getPKSServices();
+        if (isCurrentTTPKS)
+            updatePKSVehicles();
+        var selDT = "";
+        const tblBody = document.querySelector(".tbl-bryg tbody");
+        const searchServiceItp = document.querySelector("#service-code-itp");
+        const searchLineItp = document.querySelector("#service-line-itp");
+        dayTypeRadio.forEach(e => {
+            e.addEventListener("click", function() {
+                displayPKSServices(e.getAttribute("id").slice(-2), tblBody);
+                selDT = e.getAttribute("id").slice(-2);
+            })
+        })
+        searchServiceItp.addEventListener("input", () => {
+            if (selDT != "")
+                displayPKSServices(selDT, tblBody);
+        })
+        searchLineItp.addEventListener("input", () => {
+            if (selDT != "")
+                displayPKSServices(selDT, tblBody);
+        })
+
+        if (isCurrentTTPKS)
+            setInterval(() => {
+                if (selDT != "")
+                    displayPKSServices(selDT, tblBody);
+            }, 30000)
+    </script>
+</body>
+
+</html>

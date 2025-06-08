@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=”robots” content=”noindex,nofollow”>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="menu-opt">
+            <span><a href="..">Lista brygad</a></span>
+        </div>
+    </header>
+    <main class="main-bryg">
+        <h2>Szczegóły kursu</h2>
+        <h4></h4>
+        <h6></h6>
+        <h5></h5>
+        <h5 class="trip-len"></h5>
+        <div class="trip-btn">
+            <a href="" class="prev-btn"><button>Poprzedni kurs</button></a>
+            <a href="" class="bryg-tt-btn"><button>Rozkład brygady</button></a>
+            <a href="" class="next-btn"><button>Następny kurs</button></a>
+        </div>
+        <table class="tbl-bryg tbl-bryg-det">
+            <thead>
+                <tr>
+                    <th>Lp.</th>
+                    <th>Przystanek</th>
+                    <th>Czas</th>
+                    <th>km</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </main>
+    <script src="script/main.js?v=25-03-23v1"></script>
+    <script>
+        const queryStr = window.location.search;
+        const urlParams = new URLSearchParams(queryStr);
+        const currServId = urlParams.get('id');
+        const currTripId = urlParams.get('id2')
+        const detTblBody = document.querySelector(".tbl-bryg tbody");
+        const servBaseInfoEl = document.querySelector(".main-bryg h4");
+        const baseInfoEl = document.querySelector(".main-bryg h5");
+        const tripLenEl = document.querySelector(".main-bryg h5.trip-len");
+        const prevBtn = document.querySelector(".prev-btn");
+        const brygTtBtn = document.querySelector(".bryg-tt-btn");
+        const nextBtn = document.querySelector(".next-btn");
+        const courseSeqEl = document.querySelector(".main-bryg h6");
+        window.addEventListener("load", getPKSServices);
+    </script>
+</body>
+</html>
