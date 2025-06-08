@@ -2442,27 +2442,27 @@ function displayVehTbl(orderBy) {
 }
 
 function updatePKSVehicles() {
-  const socket = new WebSocket("ws://89.174.170.112:3000/rist");
-  socket.addEventListener("message", (event) => {
-    let tempData = JSON.parse(event.data);
-    let tempVehicle = new VehiclePKS(tempData);
-    if (!tempVehicle.hasOwnProperty("cords")) return;
-    if (tempVehicle.cords[0] == null || isNaN(tempVehicle.cords[0])) return;
-    let existing = false;
-    for (let i = 0; i < arrayOfVehiclesPKS.length; i++) {
-      if (arrayOfVehiclesPKS[i].id == tempVehicle.id) {
-        existing = true;
-        let vehDate2 = new Date(tempVehicle.pos_date);
-        vehDate2.setDate(vehDate2.getDate() + 1);
-        tempVehicle.pos_date2 = vehDate2;
-        arrayOfVehiclesPKS[i] = tempVehicle;
-        break;
-      }
-    }
-    if (!existing) {
-      arrayOfVehiclesPKS.push(tempVehicle);
-    }
-  })
+  // const socket = new WebSocket("ws://89.174.170.112:3000/rist");
+  // socket.addEventListener("message", (event) => {
+  //   let tempData = JSON.parse(event.data);
+  //   let tempVehicle = new VehiclePKS(tempData);
+  //   if (!tempVehicle.hasOwnProperty("cords")) return;
+  //   if (tempVehicle.cords[0] == null || isNaN(tempVehicle.cords[0])) return;
+  //   let existing = false;
+  //   for (let i = 0; i < arrayOfVehiclesPKS.length; i++) {
+  //     if (arrayOfVehiclesPKS[i].id == tempVehicle.id) {
+  //       existing = true;
+  //       let vehDate2 = new Date(tempVehicle.pos_date);
+  //       vehDate2.setDate(vehDate2.getDate() + 1);
+  //       tempVehicle.pos_date2 = vehDate2;
+  //       arrayOfVehiclesPKS[i] = tempVehicle;
+  //       break;
+  //     }
+  //   }
+  //   if (!existing) {
+  //     arrayOfVehiclesPKS.push(tempVehicle);
+  //   }
+  // })
 }
 
 function displayPKSVehicles() {
