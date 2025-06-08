@@ -3683,7 +3683,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
         let newCell7 = tempNewRow.insertCell(-1);
         newCell4.style.setProperty("font-weight", "bold");
         newCell1.innerHTML =
-          "<a href='tripDetPKS.html?id=" +
+          "<a href='tripdetPKS.html?id=" +
           arrayOfServicesPKS[i].id +
           "&id2=" +
           arrayOfServicesPKS[i].trips[j].ID +
@@ -3796,7 +3796,7 @@ function displayTripDetailsPKS(sId, tId, tbodyEl) {
           if (j != 0) {
             prevBtn.setAttribute(
               "href",
-              "tripDetPKS.html?id=" +
+              "tripdetPKS.html?id=" +
               arrayOfServicesPKS[i].id +
               "&id2=" +
               arrayOfServicesPKS[i].trips[j - 1].ID + "&ttidPKS=" + ttidPKS
@@ -3810,7 +3810,7 @@ function displayTripDetailsPKS(sId, tId, tbodyEl) {
           if (j < arrayOfServicesPKS[i].trips.length - 1) {
             nextBtn.setAttribute(
               "href",
-              "tripDetPKS.html?id=" +
+              "tripdetPKS.html?id=" +
               arrayOfServicesPKS[i].id +
               "&id2=" +
               arrayOfServicesPKS[i].trips[j + 1].ID + "&ttidPKS=" + ttidPKS
