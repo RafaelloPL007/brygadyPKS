@@ -3700,7 +3700,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
           colorLines = 'false'; // Update isChecked variable
         }
 
-        if (colorLines == 'true') {
+        if (true) {
           if (!["Doj", "Zj", "PTech", arrayOfServicesPKS[i].code.slice(0, 3)].includes(String(arrayOfServicesPKS[i].trips[j].Linia))) {
             for (let k = 0; k < koloryLinii.length; k++) {
               if (koloryLinii[k].line == null) {
