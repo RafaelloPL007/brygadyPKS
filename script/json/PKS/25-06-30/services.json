@@ -909,7 +909,7 @@
         "ID": "152",
         "DayType": "PW",
         "DisplayName": "202/3",
-        "AcceptedValues": ["202A3", "202B3"]
+        "AcceptedValues": ["202B3"]
     },
     {
         "ID": "153",
