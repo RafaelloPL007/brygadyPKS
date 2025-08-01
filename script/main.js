@@ -1386,7 +1386,7 @@ function sortServicesPKS(a, b) {
   if (fValA < sValA) return -1;
   if (sValA < fValA) return 1;
 
-  const brygOrder = ['1', '2', 'R2', '3', 'A3', 'R3', '3ŚR', 'R3ŚR', '4', 'R4', '4PT', 'R4PT', '5', '6', '+', 'AB6', 'C6', 'CD6', '+A', '+B', '+AB', '+C', 'S'];
+  const brygOrder = ['1', '2', 'R2', '3', 'A3', 'R3', '3ŚR', 'R3ŚR', '4', 'R4', '4PT', 'R4PT', '5', '6', '+', 'AB6', 'C6', 'CD6', 'D', '+A', '+B', '+AB', '+C', 'S'];
   if (brygOrder.indexOf(fValB) < brygOrder.indexOf(sValB)) return -1;
   if (brygOrder.indexOf(fValB) > brygOrder.indexOf(sValB)) return 1;
   return 0;
@@ -1396,7 +1396,7 @@ function sortServicesPKS(a, b) {
 function getAllTrips() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "trips.json?v=25-03-23v6",
+    url: "script/json/" + urlBase + "trips.json?v=25-03-23v7",
     dataType: "json"
   }).done(function (data) {
     totalTrips = data.length;
@@ -1435,7 +1435,7 @@ function getAllTrips() {
 function pobierzRezerwy() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "rezerwy.json?v=25-03-23v6",
+    url: "script/json/" + urlBase + "rezerwy.json?v=25-03-23v7",
     dataType: "json"
   }).done(function (data) {
     data.forEach(rezerwa => {
@@ -2068,7 +2068,7 @@ function displayServiceDetails(id, tbodyEl) {
 function getLines(skip) {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "lines.json?v=25-03-23v6",
+    url: "script/json/" + urlBase + "lines.json?v=25-03-23v7",
     dataType: "json",
   }).done(function (data) {
     data.forEach((e) => {
@@ -2098,7 +2098,7 @@ function getLines(skip) {
 function getRoutes() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "routesDist.json?v=25-03-23v6",
+    url: "script/json/" + urlBase + "routesDist.json?v=25-03-23v7",
     dataType: "json"
   }).done(function (data) {
     data.forEach((e) => {
@@ -2325,7 +2325,7 @@ function displayTripDetails(sId, tId, tbodyEl) {
 function getVehicleList() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "vehicles.json?v=25-03-23v6",
+    url: "script/json/" + urlBase + "vehicles.json?v=25-03-23v7",
     dataType: "json",
   }).done(function (data) {
     vehicleList = data;
@@ -3200,12 +3200,12 @@ function getPKSServices() {
 function getPKSTrips() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBasePKS + "trips.json?v=25-03-23v6",
+    url: "script/json/" + urlBasePKS + "trips.json?v=25-03-23v7",
     dataType: "json"
   }).done(function (trips) {
     $.ajax({
       type: "GET",
-      url: "script/json/" + urlBasePKS + "tripDetails.json?v=25-03-23v6",
+      url: "script/json/" + urlBasePKS + "tripDetails.json?v=25-03-23v7",
       dataType: "json"
     }).done(function (tripDets) {
       trips.forEach(trip => {
