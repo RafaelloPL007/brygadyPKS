@@ -9488,7 +9488,7 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5350,
+    "ID": 5370,
     "Linia": 251,
     "Brygada": "",
     "Od": "Rzeszów D.A.",
@@ -9668,7 +9668,7 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 53502,
+    "ID": 5350,
     "Linia": 251,
     "Brygada": "310/1",
     "Od": "Rzeszów D.A.",
@@ -15035,7 +15035,7 @@
   {
     "ID": 5360,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "250/4",
     "Od": "Rzeszów D.A.",
     "Do": "Straszydle sklep 24/23",
     "Odjazd": "09:50",
@@ -15404,7 +15404,7 @@
   {
     "ID": 5361,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "250/4",
     "Od": "Straszydle sklep 24/23",
     "Do": "Rzeszów D.A.",
     "Odjazd": "10:55",
@@ -16826,7 +16826,7 @@
   {
     "ID": 4072,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "216/1",
     "Od": "Rzeszów D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "14:00",
@@ -17375,7 +17375,7 @@
   {
     "ID": 4085,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "216/1",
     "Od": "Sokołów Młp. ul. Rynek 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "14:50",
@@ -17573,7 +17573,7 @@
   {
     "ID": 4756,
     "Linia": 205,
-    "Brygada": "",
+    "Brygada": "216/4",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "15:15",
@@ -18149,7 +18149,7 @@
   {
     "ID": 4711,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "216/4",
     "Od": "Bratkowice Las 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:00",
@@ -18599,7 +18599,7 @@
   {
     "ID": 4074,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "215B2",
     "Od": "Rzeszów D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "16:45",
@@ -18698,7 +18698,7 @@
   {
     "ID": 4758,
     "Linia": 205,
-    "Brygada": "",
+    "Brygada": "216/4",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "16:55",
@@ -18849,7 +18849,7 @@
     "TypDnia": "PW"
   },
   {
-    "ID": 5350,
+    "ID": 5370,
     "Linia": 251,
     "Brygada": "250/4",
     "Od": "Rzeszów D.A.",
