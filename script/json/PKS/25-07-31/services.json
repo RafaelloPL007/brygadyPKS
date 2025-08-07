@@ -1606,5 +1606,11 @@
         "DayType": "PW",
         "DisplayName": "261D",
         "AcceptedValues": ["261D"]
+    },
+    {
+        "ID": "269",
+        "DayType": "PW",
+        "DisplayName": "406/1",
+        "AcceptedValues": ["406A1", "406B1"]
     }
 ]
