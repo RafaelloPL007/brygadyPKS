@@ -12137,7 +12137,7 @@
   {
     "ID": 6401,
     "Linia": 263,
-    "Brygada": "",
+    "Brygada": "263A1",
     "Od": "Dynów ul. Zamkowa",
     "Do": "Rzeszów D.A.",
     "Odjazd": "05:10",
@@ -12443,7 +12443,7 @@
   {
     "ID": 5346,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "250A2",
     "Od": "Rzeszów D.A.",
     "Do": "Straszydle sklep 24/23",
     "Odjazd": "05:30",
@@ -13118,7 +13118,7 @@
   {
     "ID": 5357,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "250A2",
     "Od": "Straszydle sklep 24/23",
     "Do": "Rzeszów D.A.",
     "Odjazd": "06:25",
@@ -14279,7 +14279,7 @@
   {
     "ID": 5918,
     "Linia": 288,
-    "Brygada": "",
+    "Brygada": "215/4",
     "Od": "Rzeszów D.A.",
     "Do": "Pstrągowa 01a",
     "Odjazd": "08:15",
@@ -14846,7 +14846,7 @@
   {
     "ID": 5919,
     "Linia": 288,
-    "Brygada": "",
+    "Brygada": "215/4",
     "Od": "Pstrągowa 01a",
     "Do": "Rzeszów D.A.",
     "Odjazd": "09:29",
@@ -16574,7 +16574,7 @@
   {
     "ID": 5587,
     "Linia": 241,
-    "Brygada": "",
+    "Brygada": "241B1",
     "Od": "Szklary potok 78/49",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:25",
@@ -16772,7 +16772,7 @@
   {
     "ID": 4109,
     "Linia": 215,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Kamień Podlesie 06",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:55",
@@ -17339,7 +17339,7 @@
   {
     "ID": 5422,
     "Linia": 260,
-    "Brygada": "",
+    "Brygada": "260/2",
     "Od": "Rzeszów D.A.",
     "Do": "Ulanica",
     "Odjazd": "14:45",
@@ -17600,7 +17600,7 @@
   {
     "ID": 5476,
     "Linia": 261,
-    "Brygada": "",
+    "Brygada": "261/2",
     "Od": "Rzeszów D.A.",
     "Do": "Kąkolówka Ujazdy",
     "Odjazd": "15:15",
@@ -18122,7 +18122,7 @@
   {
     "ID": 5439,
     "Linia": 260,
-    "Brygada": "",
+    "Brygada": "260/2",
     "Od": "Ulanica",
     "Do": "Błażowa 02/01",
     "Odjazd": "15:55",
@@ -18338,7 +18338,7 @@
   {
     "ID": 1503,
     "Linia": 193,
-    "Brygada": "",
+    "Brygada": "261/2",
     "Od": "Kąkolówka Ujazdy",
     "Do": "Hłudno skrz. 12/09",
     "Odjazd": "16:22",
@@ -18383,7 +18383,7 @@
   {
     "ID": 5588,
     "Linia": 241,
-    "Brygada": "",
+    "Brygada": "241/2",
     "Od": "Rzeszów D.A.",
     "Do": "Dynów ul. Zamkowa",
     "Odjazd": "16:25",
@@ -19679,7 +19679,7 @@
   {
     "ID": 6408,
     "Linia": 263,
-    "Brygada": "",
+    "Brygada": "263B1",
     "Od": "Rzeszów D.A.",
     "Do": "Dynów ul. Zamkowa",
     "Odjazd": "19:10",
@@ -20228,7 +20228,7 @@
   {
     "ID": 5732,
     "Linia": 246,
-    "Brygada": "",
+    "Brygada": "246B2",
     "Od": "Rzeszów D.A.",
     "Do": "Cierpisz Górny",
     "Odjazd": "20:35",
@@ -20363,7 +20363,7 @@
   {
     "ID": 4716,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201B1",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "21:10",
@@ -20381,7 +20381,7 @@
   {
     "ID": 5688,
     "Linia": 237,
-    "Brygada": "",
+    "Brygada": "237B1",
     "Od": "Rzeszów D.A.",
     "Do": "Hyżne Nowa Wieś skrzyżowanie 10/09",
     "Odjazd": "21:20",
@@ -20480,7 +20480,7 @@
   {
     "ID": 4042,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Rzeszów D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "21:35",
@@ -20525,7 +20525,7 @@
   {
     "ID": 5366,
     "Linia": 250,
-    "Brygada": "",
+    "Brygada": "250B2",
     "Od": "Rzeszów D.A.",
     "Do": "Straszydle sklep 24/23",
     "Odjazd": "21:40",
@@ -20543,7 +20543,7 @@
   {
     "ID": 5956,
     "Linia": 262,
-    "Brygada": "",
+    "Brygada": "262B1",
     "Od": "Rzeszów D.A.",
     "Do": "Lecka pętla 32",
     "Odjazd": "21:45",
@@ -20606,7 +20606,7 @@
   {
     "ID": 5596,
     "Linia": 241,
-    "Brygada": "",
+    "Brygada": "241B1",
     "Od": "Rzeszów D.A.",
     "Do": "Dynów ul. Zamkowa",
     "Odjazd": "22:20",
