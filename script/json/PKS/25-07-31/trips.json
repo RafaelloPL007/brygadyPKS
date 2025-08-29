@@ -14378,7 +14378,7 @@
   {
     "ID": 5936,
     "Linia": 262,
-    "Brygada": "",
+    "Brygada": "108A1",
     "Od": "Rzeszów D.A.",
     "Do": "Lecka pętla 32",
     "Odjazd": "08:25",
@@ -14873,7 +14873,7 @@
   {
     "ID": 5943,
     "Linia": 262,
-    "Brygada": "",
+    "Brygada": "108A1",
     "Od": "Lecka pętla 32",
     "Do": "Rzeszów D.A.",
     "Odjazd": "09:30",
@@ -15080,7 +15080,7 @@
   {
     "ID": 4534,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Rzeszów D.A.",
     "Do": "Czarna Sędziszowska Skrzyżowanie",
     "Odjazd": "10:00",
@@ -15395,7 +15395,7 @@
   {
     "ID": 4535,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Czarna Sędziszowska Skrzyżowanie",
     "Do": "Rzeszów D.A.",
     "Odjazd": "10:55",
@@ -15485,7 +15485,7 @@
   {
     "ID": 4706,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201A1",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "11:05",
@@ -15764,7 +15764,7 @@
   {
     "ID": 4754,
     "Linia": 205,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "11:50",
@@ -15791,7 +15791,7 @@
   {
     "ID": 4755,
     "Linia": 205,
-    "Brygada": "",
+    "Brygada": "201B1",
     "Od": "Bratkowice Las 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "11:55",
@@ -16160,7 +16160,7 @@
   {
     "ID": 4707,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Bratkowice Las 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "12:40",
@@ -16268,7 +16268,7 @@
   {
     "ID": 4536,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201B1",
     "Od": "Rzeszów D.A.",
     "Do": "Czarna Sędziszowska Skrzyżowanie",
     "Odjazd": "13:00",
@@ -16754,7 +16754,7 @@
   {
     "ID": 4537,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201B1",
     "Od": "Czarna Sędziszowska Skrzyżowanie",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:53",
@@ -17042,7 +17042,7 @@
   {
     "ID": 4708,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
     "Odjazd": "14:25",
@@ -17564,7 +17564,7 @@
   {
     "ID": 4709,
     "Linia": 201,
-    "Brygada": "",
+    "Brygada": "201/2",
     "Od": "Bratkowice Las 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "15:15",
@@ -18932,7 +18932,7 @@
   {
     "ID": 9172,
     "Linia": 225,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Rzeszów D.A.",
     "Do": "Tajęcina pętla 04",
     "Odjazd": "17:20",
@@ -19265,7 +19265,7 @@
   {
     "ID": 9173,
     "Linia": 225,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Tajęcina pętla 04",
     "Do": "Rzeszów D.A.",
     "Odjazd": "18:00",
