@@ -13046,7 +13046,7 @@
   {
     "ID": 4256,
     "Linia": 314,
-    "Brygada": "",
+    "Brygada": "216/1",
     "Od": "Rzeszów D.A.",
     "Do": "Korczowiska 02/01",
     "Odjazd": "06:20",
@@ -13199,7 +13199,7 @@
   {
     "ID": 5718,
     "Linia": 237,
-    "Brygada": "",
+    "Brygada": "240A1",
     "Od": "Rzeszów D.A.",
     "Do": "Zabratówka Dom Strażaka 02",
     "Odjazd": "06:30",
@@ -13811,7 +13811,7 @@
   {
     "ID": 9115,
     "Linia": 238,
-    "Brygada": "",
+    "Brygada": "240A1",
     "Od": "Zabratówka Dom Strażaka 02",
     "Do": "Rzeszów D.A.",
     "Odjazd": "07:30",
@@ -13955,7 +13955,7 @@
   {
     "ID": 4247,
     "Linia": 314,
-    "Brygada": "",
+    "Brygada": "216/1",
     "Od": "Korczowiska 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "07:40",
@@ -14702,7 +14702,7 @@
   {
     "ID": 5442,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "311/2",
     "Od": "Rzeszów D.A.",
     "Do": "Straszydle sklep 24/23",
     "Odjazd": "09:05",
@@ -15152,7 +15152,7 @@
   {
     "ID": 5443,
     "Linia": 251,
-    "Brygada": "",
+    "Brygada": "311/2",
     "Od": "Straszydle sklep 24/23",
     "Do": "Rzeszów D.A.",
     "Odjazd": "10:10",
@@ -16061,7 +16061,7 @@
   {
     "ID": 6209,
     "Linia": 406,
-    "Brygada": "",
+    "Brygada": "240/2",
     "Od": "Rzeszów D.A.",
     "Do": "Cierpisz Górny",
     "Odjazd": "12:25",
@@ -16448,7 +16448,7 @@
   {
     "ID": 6210,
     "Linia": 406,
-    "Brygada": "",
+    "Brygada": "240/2",
     "Od": "Cierpisz Górny",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:15",
