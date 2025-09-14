@@ -194,7 +194,7 @@
     "Brygada": "221A3",
     "Od": "Łukawiec pętla 01",
     "Do": "Rzeszów D.A.",
-    "Odjazd": "04:43",
+    "Odjazd": "04:42",
     "TypDnia": "PS"
   },
   {
@@ -630,20 +630,20 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5607,
-    "Linia": 240,
-    "Brygada": "240A1",
-    "Od": "Grzegorzówka Kanada pętla 05",
-    "Do": "Rzeszów D.A.",
-    "Odjazd": "05:15",
-    "TypDnia": "PS"
-  },
-  {
     "ID": 5602,
     "Linia": 240,
     "Brygada": "240/2",
     "Od": "Rzeszów D.A.",
     "Do": "Grzegorzówka Kanada pętla 05",
+    "Odjazd": "05:15",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 5607,
+    "Linia": 240,
+    "Brygada": "240A1",
+    "Od": "Grzegorzówka Kanada pętla 05",
+    "Do": "Rzeszów D.A.",
     "Odjazd": "05:15",
     "TypDnia": "PS"
   },
@@ -779,7 +779,7 @@
     "Brygada": "221/1",
     "Od": "Rzeszów D.A.",
     "Do": "Łukawiec pętla 01",
-    "Odjazd": "05:25",
+    "Odjazd": "05:20",
     "TypDnia": "PS"
   },
   {
@@ -1607,7 +1607,7 @@
     "Brygada": "221/1",
     "Od": "Łukawiec pętla 01",
     "Do": "Rzeszów D.A.",
-    "Odjazd": "06:15",
+    "Odjazd": "06:00",
     "TypDnia": "PS"
   },
   {
@@ -2190,7 +2190,7 @@
     "ID": 7291,
     "Linia": 302,
     "Brygada": "302/1",
-    "Od": "Głogów Młp. ul. Liliowa 01",
+    "Od": "Głogów Młp. szkoła 01",
     "Do": "Głogów Młp. szkoła 01",
     "Odjazd": "06:43",
     "TypDnia": "PS"
@@ -3551,7 +3551,7 @@
     "Brygada": "215/4",
     "Od": "Rzeszów D.A.",
     "Do": "Pstrągowa 01a",
-    "Odjazd": "08:15",
+    "Odjazd": "08:25",
     "TypDnia": "PS"
   },
   {
@@ -4199,7 +4199,7 @@
     "Brygada": "215/4",
     "Od": "Pstrągowa 01a",
     "Do": "Rzeszów D.A.",
-    "Odjazd": "09:29",
+    "Odjazd": "09:35",
     "TypDnia": "PS"
   },
   {
@@ -4322,7 +4322,7 @@
   {
     "ID": 5578,
     "Linia": 241,
-    "Brygada": "240A1",
+    "Brygada": "237A1",
     "Od": "Rzeszów D.A.",
     "Do": "Dynów ul. Zamkowa",
     "Odjazd": "09:40",
@@ -4376,7 +4376,7 @@
   {
     "ID": 5456,
     "Linia": 261,
-    "Brygada": "237A1",
+    "Brygada": "240A1",
     "Od": "Rzeszów D.A.",
     "Do": "Kąkolówka Nawsie 02/01",
     "Odjazd": "09:45",
@@ -4817,7 +4817,7 @@
   {
     "ID": 5457,
     "Linia": 261,
-    "Brygada": "237A1",
+    "Brygada": "240A1",
     "Od": "Kąkolówka Nawsie 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "10:55",
@@ -4925,7 +4925,7 @@
   {
     "ID": 5585,
     "Linia": 241,
-    "Brygada": "240A1",
+    "Brygada": "237A1",
     "Od": "Dynów ul. Zamkowa",
     "Do": "Rzeszów D.A.",
     "Odjazd": "11:05",
@@ -5159,7 +5159,7 @@
   {
     "ID": 4118,
     "Linia": 215,
-    "Brygada": "215A2",
+    "Brygada": "216/2",
     "Od": "Rzeszów D.A.",
     "Do": "Kamień lecznica 32/77",
     "Odjazd": "11:45",
@@ -5924,7 +5924,7 @@
   {
     "ID": 4119,
     "Linia": 215,
-    "Brygada": "215A2",
+    "Brygada": "216/2",
     "Od": "Kamień lecznica 32/77",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:00",
@@ -6088,7 +6088,7 @@
     "Linia": 302,
     "Brygada": "302/1",
     "Od": "Głogów Młp. szkoła 01",
-    "Do": "Głogów Młp. ul. Liliowa 01",
+    "Do": "Głogów Młp. ul. Sosnowa Grabnik 14",
     "Odjazd": "13:10",
     "TypDnia": "PS"
   },
@@ -6206,7 +6206,7 @@
     "Brygada": "238/4",
     "Od": "Zabratówka Dom Strażaka 02",
     "Do": "Rzeszów D.A.",
-    "Odjazd": "13:20",
+    "Odjazd": "13:29",
     "TypDnia": "PS"
   },
   {
@@ -6248,7 +6248,7 @@
   {
     "ID": 7222,
     "Linia": 402,
-    "Brygada": "402A1",
+    "Brygada": "224/1",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "13:20",
@@ -6284,7 +6284,7 @@
   {
     "ID": 4165,
     "Linia": 216,
-    "Brygada": "216/2",
+    "Brygada": "215A2",
     "Od": "Rzeszów D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "13:25",
@@ -6599,7 +6599,7 @@
   {
     "ID": 7070,
     "Linia": 238,
-    "Brygada": "214B2",
+    "Brygada": "301B2",
     "Od": "Rzeszów D.A.",
     "Do": "Terliczka szkoła 01",
     "Odjazd": "13:50",
@@ -6671,7 +6671,7 @@
   {
     "ID": 7092,
     "Linia": 402,
-    "Brygada": "402A1",
+    "Brygada": "224/1",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "13:54",
@@ -6725,7 +6725,7 @@
   {
     "ID": 6105,
     "Linia": 500,
-    "Brygada": "216/2",
+    "Brygada": "215A2",
     "Od": "Sokołów Młp. ul. Rynek 02/01",
     "Do": "Kuryłówka D.A.",
     "Odjazd": "13:58",
@@ -6905,7 +6905,7 @@
   {
     "ID": 9355,
     "Linia": 214,
-    "Brygada": "301B2",
+    "Brygada": "214B2",
     "Od": "Rzeszów D.A.",
     "Do": "Stobierna Krzywe pętla 01",
     "Odjazd": "14:15",
@@ -7155,15 +7155,6 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5893,
-    "Linia": 108,
-    "Brygada": "",
-    "Od": "Rzeszów D.A.",
-    "Do": "Jawornik Niebylecki pętla",
-    "Odjazd": "14:30",
-    "TypDnia": "PS"
-  },
-  {
     "ID": 5853,
     "Linia": 108,
     "Brygada": "108/4",
@@ -7178,6 +7169,15 @@
     "Brygada": "108B2",
     "Od": "Gwoźnica Górna 20 pętla",
     "Do": "Rzeszów D.A.",
+    "Odjazd": "14:30",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 5893,
+    "Linia": 108,
+    "Brygada": "",
+    "Od": "Rzeszów D.A.",
+    "Do": "Jawornik Niebylecki pętla",
     "Odjazd": "14:30",
     "TypDnia": "PS"
   },
@@ -7472,7 +7472,7 @@
   {
     "ID": 4130,
     "Linia": 216,
-    "Brygada": "215A2",
+    "Brygada": "216/2",
     "Od": "Rzeszów D.A.",
     "Do": "Wólka Niedźwiedzka Budy 02/01",
     "Odjazd": "14:45",
@@ -7490,7 +7490,7 @@
   {
     "ID": 7063,
     "Linia": 238,
-    "Brygada": "214B2",
+    "Brygada": "301B2",
     "Od": "Terliczka szkoła 01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "14:45",
@@ -7607,7 +7607,7 @@
   {
     "ID": 9356,
     "Linia": 214,
-    "Brygada": "301B2",
+    "Brygada": "214B2",
     "Od": "Stobierna Krzywe pętla 01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "14:55",
@@ -7985,7 +7985,7 @@
   {
     "ID": 6106,
     "Linia": 500,
-    "Brygada": "216/2",
+    "Brygada": "215B2",
     "Od": "Kuryłówka D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "15:23",
@@ -8426,7 +8426,7 @@
   {
     "ID": 9673,
     "Linia": 206,
-    "Brygada": "241B1",
+    "Brygada": "307/2",
     "Od": "Rzeszów D.A.",
     "Do": "Malawa Góra pętla 16",
     "Odjazd": "15:45",
@@ -8669,7 +8669,7 @@
   {
     "ID": 7170,
     "Linia": 307,
-    "Brygada": "202/4",
+    "Brygada": "221/1",
     "Od": "Rzeszów D.A.",
     "Do": "Rudna Mała pętla 12/11",
     "Odjazd": "16:00",
@@ -8687,7 +8687,7 @@
   {
     "ID": 9359,
     "Linia": 214,
-    "Brygada": "224/1",
+    "Brygada": "214B2",
     "Od": "Rzeszów D.A.",
     "Do": "Stobierna Krzywe pętla 01",
     "Odjazd": "16:05",
@@ -8768,7 +8768,7 @@
   {
     "ID": 9427,
     "Linia": 207,
-    "Brygada": "214B2",
+    "Brygada": "224/1",
     "Od": "Rzeszów D.A.",
     "Do": "Nowa Wieś Zaczerska pętla 30",
     "Odjazd": "16:15",
@@ -8804,7 +8804,7 @@
   {
     "ID": 4166,
     "Linia": 216,
-    "Brygada": "216/2",
+    "Brygada": "215B2",
     "Od": "Sokołów Młp. ul. Rynek 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:16",
@@ -8840,7 +8840,7 @@
   {
     "ID": 9361,
     "Linia": 214,
-    "Brygada": "307/2",
+    "Brygada": "202/4",
     "Od": "Rzeszów D.A.",
     "Do": "Stobierna Krzywe pętla 01",
     "Odjazd": "16:20",
@@ -8948,7 +8948,7 @@
   {
     "ID": 9754,
     "Linia": 206,
-    "Brygada": "241B1",
+    "Brygada": "307/2",
     "Od": "Malawa Góra pętla 16",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:26",
@@ -9164,7 +9164,7 @@
   {
     "ID": 8819,
     "Linia": 307,
-    "Brygada": "202/4",
+    "Brygada": "221/1",
     "Od": "Rudna Mała pętla 12/11",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:40",
@@ -9203,7 +9203,7 @@
     "Brygada": "205/1",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Las 02/01",
-    "Odjazd": "16:45",
+    "Odjazd": "16:55",
     "TypDnia": "PS"
   },
   {
@@ -9218,7 +9218,7 @@
   {
     "ID": 9360,
     "Linia": 214,
-    "Brygada": "224/1",
+    "Brygada": "214B2",
     "Od": "Stobierna Krzywe pętla 01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:45",
@@ -9308,7 +9308,7 @@
   {
     "ID": 9428,
     "Linia": 207,
-    "Brygada": "214B2",
+    "Brygada": "224/1",
     "Od": "Nowa Wieś Zaczerska pętla 30",
     "Do": "Rzeszów D.A.",
     "Odjazd": "16:54",
@@ -9398,7 +9398,7 @@
   {
     "ID": 9362,
     "Linia": 214,
-    "Brygada": "307/2",
+    "Brygada": "202/4",
     "Od": "Stobierna Krzywe pętla 01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:00",
@@ -9461,7 +9461,7 @@
   {
     "ID": 7225,
     "Linia": 402,
-    "Brygada": "216/2",
+    "Brygada": "402B1",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "17:00",
@@ -9569,7 +9569,7 @@
   {
     "ID": 9172,
     "Linia": 225,
-    "Brygada": "402B1",
+    "Brygada": "",
     "Od": "Rzeszów D.A.",
     "Do": "Tajęcina pętla 04",
     "Odjazd": "17:20",
@@ -9839,7 +9839,7 @@
   {
     "ID": 9654,
     "Linia": 402,
-    "Brygada": "216/2",
+    "Brygada": "402B1",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:45",
@@ -9938,7 +9938,7 @@
   {
     "ID": 9173,
     "Linia": 225,
-    "Brygada": "402B1",
+    "Brygada": "",
     "Od": "Tajęcina pętla 04",
     "Do": "Rzeszów D.A.",
     "Odjazd": "18:00",
@@ -10055,7 +10055,7 @@
   {
     "ID": 4134,
     "Linia": 216,
-    "Brygada": "216/2",
+    "Brygada": "",
     "Od": "Rzeszów D.A.",
     "Do": "Wólka Niedźwiedzka Budy 02/01",
     "Odjazd": "18:15",
@@ -10550,7 +10550,7 @@
   {
     "ID": 4142,
     "Linia": 216,
-    "Brygada": "216/4",
+    "Brygada": "310/1",
     "Od": "Rzeszów D.A.",
     "Do": "Sokołów Młp. ul. Rynek 02/01",
     "Odjazd": "19:30",
@@ -10856,7 +10856,7 @@
   {
     "ID": 4133,
     "Linia": 216,
-    "Brygada": "216/4",
+    "Brygada": "310/1",
     "Od": "Sokołów Młp. ul. Rynek 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "20:25",

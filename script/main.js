@@ -1398,7 +1398,7 @@ function sortServicesPKS(a, b) {
 function getAllTrips() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "trips.json?v=25-03-23v19",
+    url: "script/json/" + urlBase + "trips.json?v=25-03-23v20",
     dataType: "json"
   }).done(function (data) {
     totalTrips = data.length;
@@ -1437,7 +1437,7 @@ function getAllTrips() {
 function pobierzRezerwy() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "rezerwy.json?v=25-03-23v19",
+    url: "script/json/" + urlBase + "rezerwy.json?v=25-03-23v20",
     dataType: "json"
   }).done(function (data) {
     data.forEach(rezerwa => {
@@ -2070,7 +2070,7 @@ function displayServiceDetails(id, tbodyEl) {
 function getLines(skip) {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "lines.json?v=25-03-23v19",
+    url: "script/json/" + urlBase + "lines.json?v=25-03-23v20",
     dataType: "json",
   }).done(function (data) {
     data.forEach((e) => {
@@ -2100,7 +2100,7 @@ function getLines(skip) {
 function getRoutes() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "routesDist.json?v=25-03-23v19",
+    url: "script/json/" + urlBase + "routesDist.json?v=25-03-23v20",
     dataType: "json"
   }).done(function (data) {
     data.forEach((e) => {
@@ -2327,7 +2327,7 @@ function displayTripDetails(sId, tId, tbodyEl) {
 function getVehicleList() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBase + "vehicles.json?v=25-03-23v19",
+    url: "script/json/" + urlBase + "vehicles.json?v=25-03-23v20",
     dataType: "json",
   }).done(function (data) {
     vehicleList = data;
@@ -3202,12 +3202,12 @@ function getPKSServices() {
 function getPKSTrips() {
   $.ajax({
     type: "GET",
-    url: "script/json/" + urlBasePKS + "trips.json?v=25-03-23v19",
+    url: "script/json/" + urlBasePKS + "trips.json?v=25-03-23v20",
     dataType: "json"
   }).done(function (trips) {
     $.ajax({
       type: "GET",
-      url: "script/json/" + urlBasePKS + "tripDetails.json?v=25-03-23v19",
+      url: "script/json/" + urlBasePKS + "tripDetails.json?v=25-03-23v20",
       dataType: "json"
     }).done(function (tripDets) {
       trips.forEach(trip => {
