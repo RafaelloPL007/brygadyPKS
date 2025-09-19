@@ -9461,7 +9461,7 @@
   {
     "ID": 7225,
     "Linia": 402,
-    "Brygada": "402B1",
+    "Brygada": "",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "17:00",
@@ -9569,7 +9569,7 @@
   {
     "ID": 9172,
     "Linia": 225,
-    "Brygada": "",
+    "Brygada": "402B1",
     "Od": "Rzeszów D.A.",
     "Do": "Tajęcina pętla 04",
     "Odjazd": "17:20",
@@ -9839,7 +9839,7 @@
   {
     "ID": 9654,
     "Linia": 402,
-    "Brygada": "402B1",
+    "Brygada": "",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:45",
@@ -9938,7 +9938,7 @@
   {
     "ID": 9173,
     "Linia": 225,
-    "Brygada": "",
+    "Brygada": "402B1",
     "Od": "Tajęcina pętla 04",
     "Do": "Rzeszów D.A.",
     "Odjazd": "18:00",
@@ -10055,7 +10055,7 @@
   {
     "ID": 4134,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Rzeszów D.A.",
     "Do": "Wólka Niedźwiedzka Budy 02/01",
     "Odjazd": "18:15",
@@ -10253,7 +10253,7 @@
   {
     "ID": 4114,
     "Linia": 215,
-    "Brygada": "215B1",
+    "Brygada": "216/4",
     "Od": "Rzeszów D.A.",
     "Do": "Kamień lecznica 32/77",
     "Odjazd": "18:40",
@@ -10442,7 +10442,7 @@
   {
     "ID": 4143,
     "Linia": 216,
-    "Brygada": "",
+    "Brygada": "215B1",
     "Od": "Wólka Niedźwiedzka Budy 02/01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "19:20",
@@ -10712,7 +10712,7 @@
   {
     "ID": 4115,
     "Linia": 215,
-    "Brygada": "215B1",
+    "Brygada": "216/4",
     "Od": "Kamień lecznica 32/77",
     "Do": "Rzeszów D.A.",
     "Odjazd": "19:50",
