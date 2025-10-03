@@ -1323,6 +1323,15 @@
     "TypDnia": "PS"
   },
   {
+    "ID": 5490,
+    "Linia": 264,
+    "Brygada": "263A2",
+    "Od": "Dynów ul. Zamkowa",
+    "Do": "Błażowa 02/01",
+    "Odjazd": "06:00",
+    "TypDnia": "PS"
+  },
+  {
     "ID": 9277,
     "Linia": 301,
     "Brygada": "224/2",
@@ -1535,15 +1544,6 @@
     "Brygada": "",
     "Od": "Kąkolówka Nawsie 02/01",
     "Do": "Rzeszów D.A.",
-    "Odjazd": "06:10",
-    "TypDnia": "PS"
-  },
-  {
-    "ID": 5490,
-    "Linia": 264,
-    "Brygada": "263A2",
-    "Od": "Dynów ul. Zamkowa",
-    "Do": "Błażowa 02/01",
     "Odjazd": "06:10",
     "TypDnia": "PS"
   },
