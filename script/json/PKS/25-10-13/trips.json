@@ -189,6 +189,15 @@
     "TypDnia": "PS"
   },
   {
+    "ID": 5401,
+    "Linia": 260,
+    "Brygada": "260A1",
+    "Od": "Ulanica",
+    "Do": "Rzeszów D.A.",
+    "Odjazd": "04:40",
+    "TypDnia": "PS"
+  },
+  {
     "ID": 8014,
     "Linia": 221,
     "Brygada": "221A3",
@@ -239,6 +248,15 @@
     "Brygada": "232A1",
     "Od": "Wola Zgłobieńska pętla 01",
     "Do": "Rzeszów D.A.",
+    "Odjazd": "04:45",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 5963,
+    "Linia": 262,
+    "Brygada": "262A1",
+    "Od": "Lecka pętla 32",
+    "Do": "Błażowa 02/01",
     "Odjazd": "04:45",
     "TypDnia": "PS"
   },
@@ -342,15 +360,6 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5401,
-    "Linia": 260,
-    "Brygada": "260A1",
-    "Od": "Ulanica",
-    "Do": "Rzeszów D.A.",
-    "Odjazd": "04:50",
-    "TypDnia": "PS"
-  },
-  {
     "ID": 5451,
     "Linia": 261,
     "Brygada": "261/2",
@@ -396,15 +405,6 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5963,
-    "Linia": 262,
-    "Brygada": "262A1",
-    "Od": "Lecka pętla 32",
-    "Do": "Błażowa 02/01",
-    "Odjazd": "04:55",
-    "TypDnia": "PS"
-  },
-  {
     "ID": 7435,
     "Linia": 306,
     "Brygada": "306/1",
@@ -437,6 +437,15 @@
     "Brygada": "238/3",
     "Od": "Terliczka szkoła 01",
     "Do": "Zabratówka Dom Strażaka 02",
+    "Odjazd": "05:00",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 6401,
+    "Linia": 263,
+    "Brygada": "263A1",
+    "Od": "Dynów ul. Zamkowa",
+    "Do": "Rzeszów D.A.",
     "Odjazd": "05:00",
     "TypDnia": "PS"
   },
@@ -531,9 +540,9 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 6401,
-    "Linia": 263,
-    "Brygada": "263A1",
+    "ID": 5445,
+    "Linia": 260,
+    "Brygada": "260/3",
     "Od": "Dynów ul. Zamkowa",
     "Do": "Rzeszów D.A.",
     "Odjazd": "05:10",
@@ -657,15 +666,6 @@
     "TypDnia": "PS"
   },
   {
-    "ID": 5445,
-    "Linia": 260,
-    "Brygada": "260/3",
-    "Od": "Dynów ul. Zamkowa",
-    "Do": "Rzeszów D.A.",
-    "Odjazd": "05:15",
-    "TypDnia": "PS"
-  },
-  {
     "ID": 7080,
     "Linia": 401,
     "Brygada": "401A1",
@@ -707,6 +707,15 @@
     "Brygada": "207A2",
     "Od": "Rzeszów D.A.",
     "Do": "Nowa Wieś Zaczerska pętla 30",
+    "Odjazd": "05:20",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 5931,
+    "Linia": 262,
+    "Brygada": "262A1",
+    "Od": "Lecka pętla 32",
+    "Do": "Rzeszów D.A.",
     "Odjazd": "05:20",
     "TypDnia": "PS"
   },
@@ -878,15 +887,6 @@
     "Brygada": "250A2",
     "Od": "Rzeszów D.A.",
     "Do": "Straszydle sklep 24/23",
-    "Odjazd": "05:30",
-    "TypDnia": "PS"
-  },
-  {
-    "ID": 5931,
-    "Linia": 262,
-    "Brygada": "262A1",
-    "Od": "Lecka pętla 32",
-    "Do": "Rzeszów D.A.",
     "Odjazd": "05:30",
     "TypDnia": "PS"
   },
@@ -1548,6 +1548,15 @@
     "TypDnia": "PS"
   },
   {
+    "ID": 5937,
+    "Linia": 262,
+    "Brygada": "261A1",
+    "Od": "Lecka pętla 32",
+    "Do": "Rzeszów D.A.",
+    "Odjazd": "06:10",
+    "TypDnia": "PS"
+  },
+  {
     "ID": 7407,
     "Linia": 308,
     "Brygada": "301/2",
@@ -1624,6 +1633,15 @@
     "Linia": 238,
     "Brygada": "",
     "Od": "Terliczka szkoła 01",
+    "Do": "Rzeszów D.A.",
+    "Odjazd": "06:15",
+    "TypDnia": "PS"
+  },
+  {
+    "ID": 5407,
+    "Linia": 260,
+    "Brygada": "260/2",
+    "Od": "Futoma góra 07",
     "Do": "Rzeszów D.A.",
     "Odjazd": "06:15",
     "TypDnia": "PS"
@@ -1724,24 +1742,6 @@
     "Brygada": "240A1",
     "Od": "Rzeszów D.A.",
     "Do": "Grzegorzówka Kanada pętla 05",
-    "Odjazd": "06:20",
-    "TypDnia": "PS"
-  },
-  {
-    "ID": 5407,
-    "Linia": 260,
-    "Brygada": "260/2",
-    "Od": "Futoma góra 07",
-    "Do": "Rzeszów D.A.",
-    "Odjazd": "06:20",
-    "TypDnia": "PS"
-  },
-  {
-    "ID": 5937,
-    "Linia": 262,
-    "Brygada": "261A1",
-    "Od": "Lecka pętla 32",
-    "Do": "Rzeszów D.A.",
     "Odjazd": "06:20",
     "TypDnia": "PS"
   },
@@ -9461,7 +9461,7 @@
   {
     "ID": 7225,
     "Linia": 402,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "17:00",
@@ -9839,7 +9839,7 @@
   {
     "ID": 9654,
     "Linia": 402,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:45",
@@ -10208,7 +10208,7 @@
   {
     "ID": 5644,
     "Linia": 240,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Rzeszów D.A.",
     "Do": "Grzegorzówka Kanada pętla 05",
     "Odjazd": "18:35",
@@ -10685,7 +10685,7 @@
   {
     "ID": 5635,
     "Linia": 240,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Grzegorzówka Kanada pętla 05",
     "Do": "Rzeszów D.A.",
     "Odjazd": "19:40",
