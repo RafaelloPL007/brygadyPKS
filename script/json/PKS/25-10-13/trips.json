@@ -9461,7 +9461,7 @@
   {
     "ID": 7225,
     "Linia": 402,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "17:00",
@@ -9839,7 +9839,7 @@
   {
     "ID": 9654,
     "Linia": 402,
-    "Brygada": "",
+    "Brygada": "BRAK",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:45",
