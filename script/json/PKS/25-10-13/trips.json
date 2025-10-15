@@ -1550,7 +1550,7 @@
   {
     "ID": 5937,
     "Linia": 262,
-    "Brygada": "261A1",
+    "Brygada": "261/3",
     "Od": "Lecka pętla 32",
     "Do": "Rzeszów D.A.",
     "Odjazd": "06:10",
@@ -1658,7 +1658,7 @@
   {
     "ID": 5453,
     "Linia": 261,
-    "Brygada": "261/3",
+    "Brygada": "261A1",
     "Od": "Kąkolówka Ujazdy",
     "Do": "Rzeszów D.A.",
     "Odjazd": "06:15",
@@ -2846,7 +2846,7 @@
   {
     "ID": 9870,
     "Linia": 301,
-    "Brygada": "311/2",
+    "Brygada": "217A1",
     "Od": "Rzeszów D.A.",
     "Do": "Głogów Młp. Os. Słoneczne I/II",
     "Odjazd": "07:25",
@@ -2891,7 +2891,7 @@
   {
     "ID": 5763,
     "Linia": 217,
-    "Brygada": "217A1",
+    "Brygada": "311/2",
     "Od": "Rzeszów D.A.",
     "Do": "Bratkowice Dąbry pętla 01/02",
     "Odjazd": "07:30",
@@ -3449,7 +3449,7 @@
   {
     "ID": 9889,
     "Linia": 301,
-    "Brygada": "311/2",
+    "Brygada": "217A1",
     "Od": "Głogów Młp. Os. Słoneczne I/II",
     "Do": "Rzeszów D.A.",
     "Odjazd": "08:05",
@@ -3494,7 +3494,7 @@
   {
     "ID": 5764,
     "Linia": 217,
-    "Brygada": "217A1",
+    "Brygada": "311/2",
     "Od": "Bratkowice Dąbry pętla 01/02",
     "Do": "Rzeszów D.A.",
     "Odjazd": "08:10",
@@ -4925,7 +4925,7 @@
   {
     "ID": 5585,
     "Linia": 241,
-    "Brygada": "240A1",
+    "Brygada": "240B1",
     "Od": "Dynów ul. Zamkowa",
     "Do": "Rzeszów D.A.",
     "Odjazd": "11:05",
@@ -6806,7 +6806,7 @@
   {
     "ID": 5570,
     "Linia": 241,
-    "Brygada": "240A1",
+    "Brygada": "240B1",
     "Od": "Rzeszów D.A.",
     "Do": "Szklary potok 78/49",
     "Odjazd": "14:05",
@@ -9461,7 +9461,7 @@
   {
     "ID": 7225,
     "Linia": 402,
-    "Brygada": "BRAK",
+    "Brygada": "",
     "Od": "Rzeszów D.A.",
     "Do": "Krasne Wólka II 03",
     "Odjazd": "17:00",
@@ -9839,7 +9839,7 @@
   {
     "ID": 9654,
     "Linia": 402,
-    "Brygada": "BRAK",
+    "Brygada": "",
     "Od": "Krasne Wólka II 03",
     "Do": "Rzeszów D.A.",
     "Odjazd": "17:45",
@@ -10172,7 +10172,7 @@
   {
     "ID": 9365,
     "Linia": 214,
-    "Brygada": "246B2",
+    "Brygada": "1R",
     "Od": "Rzeszów D.A.",
     "Do": "Stobierna Krzywe pętla 01",
     "Odjazd": "18:30",
@@ -10208,7 +10208,7 @@
   {
     "ID": 5644,
     "Linia": 240,
-    "Brygada": "BRAK",
+    "Brygada": "246B2",
     "Od": "Rzeszów D.A.",
     "Do": "Grzegorzówka Kanada pętla 05",
     "Odjazd": "18:35",
@@ -10433,7 +10433,7 @@
   {
     "ID": 9366,
     "Linia": 214,
-    "Brygada": "246B2",
+    "Brygada": "1R",
     "Od": "Stobierna Krzywe pętla 01",
     "Do": "Rzeszów D.A.",
     "Odjazd": "19:20",
@@ -10685,7 +10685,7 @@
   {
     "ID": 5635,
     "Linia": 240,
-    "Brygada": "BRAK",
+    "Brygada": "246B2",
     "Od": "Grzegorzówka Kanada pętla 05",
     "Do": "Rzeszów D.A.",
     "Odjazd": "19:40",

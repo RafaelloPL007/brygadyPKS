@@ -1620,6 +1620,12 @@
         "AcceptedValues": ["201/2"]
     },
     {
+        "ID": "271",
+        "DayType": "PS",
+        "DisplayName": "1R",
+        "AcceptedValues": ["1R"]
+    },
+    {
         "ID": "9999",
         "DayType": "PS",
         "DisplayName": "B/D",
