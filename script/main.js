@@ -3749,7 +3749,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
           let c1 = breakRow.insertCell(-1);
           let c2 = breakRow.insertCell(-1);
           let c3 = breakRow.insertCell(-1);
-          c1.setAttribute("colspan", "2");
+          c1.setAttribute("colspan", "3");
           c2.setAttribute("colspan", "2");
           c3.setAttribute("colspan", "3");
           c1.textContent = "Zak. A";
@@ -3760,7 +3760,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
           c1 = breakRow.insertCell(-1);
           c2 = breakRow.insertCell(-1);
           c3 = breakRow.insertCell(-1);
-          c1.setAttribute("colspan", "2");
+          c1.setAttribute("colspan", "3");
           c2.setAttribute("colspan", "2");
           c3.setAttribute("colspan", "3");
           c1.textContent = "Rozp. B";
@@ -3774,7 +3774,7 @@ function displayServiceDetailsPKS(id, tbodyEl) {
           let c2 = breakRow.insertCell(-1);
           let c3 = breakRow.insertCell(-1);
           let c4 = breakRow.insertCell(-1);
-          c1.setAttribute("colspan", "4");
+          c1.setAttribute("colspan", "5");
           c1.textContent = "Przerwa szczytowa";
           c2.textContent = arrayOfServicesPKS[i].shiftTime;
           c3.textContent = arrayOfServicesPKS[i].shiftTime2;
