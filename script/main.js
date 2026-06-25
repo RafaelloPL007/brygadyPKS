@@ -112,7 +112,7 @@ if (ttidPKS == "24-03-01") {
   urlBasePKS += "25-05-15/";
 } else if (ttidPKS == "25-06-30") {
   urlBasePKS += "25-06-30/";
-} else if (ttidPKS == "25-07-31") {
+} else if (ttidPKS == "25-07-31" || ttidPKS == "null" || ttidPKS == undefined) { // temporary view holidays
   urlBasePKS += "25-07-31/";
 } else if (ttidPKS == "25-09-01") {
   urlBasePKS += "25-09-01/";
@@ -122,6 +122,7 @@ if (ttidPKS == "24-03-01") {
   urlBasePKS += "25-10-13/";
   isCurrentTTPKS = true;
 }
+
 
 const directionReplacements = [
   {
